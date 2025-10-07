@@ -1,1 +1,3 @@
-# Official-documentation
+山河大学（Shanhe University, China），位于山河四省交界，
+由中华人民共和国教育部与河北省，河南省，山东省；
+山西省重点共建 ，是教育部直属的全国重点大学。
